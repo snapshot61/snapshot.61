@@ -1,0 +1,138 @@
+h1{
+
+text-align: center;
+font-family: 'Rancho', cursive;
+padding-top:  7% ;
+}
+h2{
+
+  text-align: center;
+font-family: 'Chilanka', cursive;
+padding-bottom: 10%;
+
+}
+.kawa-color{
+  background-color: #C6D9D3;
+}
+
+
+
+.testimonial-image{
+  width: 300px;
+  height: 300px;
+  margin-left: 38%;
+  margin-right: 40%;
+  color: #ff9642;
+
+}
+.testimonial-text{
+  padding-bottom: 4%;
+  color: #ff9642;
+
+}
+
+.img-ap{
+  width: 300px;
+  height:300px;
+margin-left: 40%;
+
+
+}
+
+.intro{
+margin-left: 35%;
+
+}
+
+
+
+
+
+
+
+.bottom-container {
+  background-color: #C6D9D3;
+  padding: 50px 0 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;}
+
+.chilli-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+  .code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+.h3-kawa{
+
+  margin-left: 47%;
+}
+.div-kawa{
+  background-color: #C6D9D3;
+}
+
+#bga{
+  background-image: url("../images/mountain.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 768px;
+
+}
+
+.div-kawa{
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+ /* Footer Section  */
+
+
+.social-icon {
+  margin: 20px 18px;
+}
+
+.footer-kawa{
+  margin-left: 40%;
+margin-top: 50px;
+}
+
+footer{
+
+height: 100px;
+}
+
+.icon-kawa{
+  margin-left: 3%;
+margin-bottom: 36px;
+position: relative;
+bottom: 23px;
+
+}
+
+.social-icon:hover{
+  background-color: #ccf6c8;
+}
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+hr{
+  border-top: 2px solid;
+}
+.intro{
+  margin-left: 38%;
+}
